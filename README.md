@@ -1,4 +1,10 @@
-### Hi there 👋
+Currently working on a new browser game!
+Therefore I am still looking for help!
+
+🔭
+* Vue.js Engineers!
+* Kotlin Backend Engineers!
+* Figma Designers!
 
 <!--
 **xetra11/xetra11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
