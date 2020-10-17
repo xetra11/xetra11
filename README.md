@@ -5,6 +5,8 @@ Therefore I am still looking for help!
 * Kotlin Backend Engineers!
 * Figma Designers!
 
+
+### Please contact me: alemanni.game@gmail.com
 <!--
 **xetra11/xetra11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
