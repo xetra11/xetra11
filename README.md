@@ -1,5 +1,5 @@
 Currently working on a new browser game!
-Therefore I am still looking for help!
+I am still looking for help!
 
 * Vue.js Engineers!
 * Kotlin Backend Engineers!
