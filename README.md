@@ -2,11 +2,12 @@
 
 # CK3 Workbench
 Modding Tool for Crusader Kings 3
-⚡ Kotlin
-⚡ JetPack Compose for Desktop
 
-🌱 https://github.com/xetra11/CK3-Workbench
-💬 Discord: https://discord.gg/A3gzDWGRX
+- ⚡ Kotlin
+- ⚡ JetPack Compose for Desktop
+
+- 🌱 https://github.com/xetra11/CK3-Workbench
+- 💬 Discord: https://discord.gg/A3gzDWGRX
 
 <!--
 **xetra11/xetra11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
