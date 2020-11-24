@@ -1,12 +1,13 @@
-Currently working on a new browser game!
-I am still looking for help!
+## Help Wanted!
 
-* Vue.js Engineers!
-* Kotlin Backend Engineers!
-* Figma Designers!
+# CK3 Workbench
+Modding Tool for Crusader Kings 3
+⚡ Kotlin
+⚡ JetPack Compose for Desktop
 
+🌱 https://github.com/xetra11/CK3-Workbench
+💬 Discord: https://discord.gg/A3gzDWGRX
 
-### Please contact me: alemanni.game@gmail.com
 <!--
 **xetra11/xetra11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
