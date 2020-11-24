@@ -5,7 +5,6 @@ Modding Tool for Crusader Kings 3
 
 - ⚡ Kotlin
 - ⚡ JetPack Compose for Desktop
-
 - 🌱 https://github.com/xetra11/CK3-Workbench
 - 💬 Discord: https://discord.gg/A3gzDWGRX
 
