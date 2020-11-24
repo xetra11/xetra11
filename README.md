@@ -1,6 +1,6 @@
 ## Help Wanted!
 
-# CK3 Workbench
+### CK3 Workbench
 Modding Tool for Crusader Kings 3
 
 - ⚡ Kotlin
