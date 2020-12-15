@@ -1,5 +1,8 @@
 ## Help Wanted!
 
+### Blind Beep
+Looking for solution and concepts: https://github.com/xetra11/BlindBeep/discussions?discussions_q=category%3AConcepts
+
 ### CK3 Workbench
 Modding Tool for Crusader Kings 3
 
