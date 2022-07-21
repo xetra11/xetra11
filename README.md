@@ -1,10 +1,5 @@
-# 🚀 Current Project: Barbarus
-A new browser game that follows a new concept of playing together in a virtual society
+# 🚀 Current Project: Prosper Engine
+A civilisation simulation engine to power my browser-game project "Barbarus"
 ## 👨‍💻 Stack
-- Photon 3
-  - Nuxt.js / Vue.js
-- Kotlin Backend
-  - Spring Boot 
+- Kotlin
 - Google Cloud Platform Hosting
-## 📺 Live Coding
-https://www.twitch.tv/xetra11
