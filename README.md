@@ -1,7 +1,7 @@
 # 🚀 Current Projects: 
-**Goulash**: https://github.com/Goulash-Engine
-<br>
-**Barbarus Online**: https://www.kickstarter.com/projects/barbarusonline/548062764?ref=a1jexs&token=202e1c9f
+**Lucid Warlocks**: https://www.lucidwarlocks.com
+
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xetra11)](https://github.com/anuraghazra/github-readme-stats)
 <br>
