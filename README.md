@@ -1,5 +1,5 @@
 # 🚀 Current Projects: 
-**Lucid Warlocks**: https://www.lucidwarlocks.com
+**Lucid Warlocks**: [https://www.lucidwarlocks.com](https://www.hopp.to/lucid-warlocks)
 
 ---
 
