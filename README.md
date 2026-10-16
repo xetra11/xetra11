@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/N92QcCw.jpeg" alt="Donnervolk Online" width="1080" />
 
-# Hey, I'm xetra11 👋
+# Hey, I'm Charlie 👋
 
 Game developer at **Airburst Studios**. I'm building **Donnervolk Online**.
 
