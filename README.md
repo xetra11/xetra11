@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="donnervolk-logo.png" alt="Donnervolk Online" width="160" />
+<img src="https://i.imgur.com/N92QcCw.jpeg" alt="Donnervolk Online" width="1080" />
 
 # Hey, I'm xetra11 👋
 
@@ -44,8 +44,6 @@ If *King of Dragon Pass*, *Crusader Kings* and *Travian* had a slow, social, kno
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/k3s%20%2B%20Helm-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-
-The Donnervolk backend is an authoritative Kotlin game server that simulates the world, the kin groups and everything that happens while players are offline. It talks to the clients over HTTP and WebSockets.
 
 ---
 
