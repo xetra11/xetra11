@@ -51,6 +51,4 @@ If *King of Dragon Pass*, *Crusader Kings* and *Travian* had a slow, social, kno
 
 ⚡ **[Donnervolk Online on GitHub](https://github.com/donnervolk-online)** ⚡
 
-*Rau, erdig, glaubwürdig.*
-
 </div>
